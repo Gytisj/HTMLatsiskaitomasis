@@ -202,9 +202,11 @@ body {
                         .rndm {
                             margin-top: 30px;
                             width: 81%;
+                            line-height: 1.4;
                         }
                         .logos1 {
-                            margin-top: 19px;
+                            position: relative;
+                            bottom: -16px;
                             display: flex;
                             justify-content: space-evenly;
                             align-items: center;
