@@ -79,10 +79,13 @@ body {
                         margin-bottom: 146px;
                         border-radius: 5px;
                         border: none;
+                        border-bottom: 4px solid #C86A40;
                     }
 
                     button:hover {
                         cursor: pointer;
+                        font-weight: 500;
+                        font-size: 19px;
                     }
                 }
 
@@ -117,6 +120,7 @@ body {
 
                         li:hover {
                             cursor: pointer;
+                            color: lightblue;
                         }
                     }
                 }
@@ -445,6 +449,7 @@ body {
                 }
                 .butt_main:hover, .butt:hover, .butt1:hover {
                     cursor: pointer;
+                    background: #ffffff;
                 }
 
                 .butt_main {
@@ -497,12 +502,15 @@ body {
                     font-size: 17px;
                     border-radius: 5px;
                     border: none;
+                    border-bottom: 4px solid #14A48B;
                     margin-top: 83px;
                     margin-bottom: 110px;
                 }
     
                 button:hover {
                     cursor: pointer;
+                    font-weight: 500;
+                    font-size: 19px;
                 }
             }
         }
@@ -545,7 +553,9 @@ body {
                                     margin-bottom: 0;
                                 }
                                 .rndm {
-                                    font-family: italic;
+                                    font-family: 'Roboto', sans-serif;
+                                    letter-spacing: 1px;
+                                    font-weight: 300;
                                     font-size: 19px;
                                 }
                             }
@@ -604,10 +614,13 @@ body {
                         margin-bottom: 115px;
                         border-radius: 5px;
                         border: none;
+                        border-bottom: 4px solid #289DC4;
                     }
 
                     button:hover {
                         cursor: pointer;
+                        font-weight: 500;
+                        font-size: 19px;
                     }
                 }
             }
@@ -624,11 +637,9 @@ body {
                     font-size: 25px;
                     padding: 35px 10px;
                 }
-                .a {
-                    color: #30A3D4;
-                }
                 li:hover {
                     cursor: pointer;
+                    color: #30A3D4;
                 }
             }
         }
